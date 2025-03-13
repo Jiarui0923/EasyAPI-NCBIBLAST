@@ -12,7 +12,7 @@ NAME = 'EasyAPI-NCBIBLAST'
 
 
 install_requires = [
-    "easyapi",
+    "easyapi @ git+https://github.com/Jiarui0923/EasyAPI",
     "requests",
 ]
 
